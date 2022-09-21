@@ -1,5 +1,5 @@
 # Tic-Tac-Toe---Game
-## [Live Demo](https://earnest-pie-959f9d.netlify.app/).
+## [Live Demo](https://tictactoe-by-bhanuprathapgoud.netlify.app/).
 ### -It’s a simple yet complicated 2-player game played by people of all ages. Also known as X's and O's
 ### -The users can also track their moves.
 ### -All the edge cases of the game have been covered.
